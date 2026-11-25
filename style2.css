@@ -1,0 +1,22 @@
+.gratitud{
+	text-decoration-line:underline;
+	color:green;
+}
+.sentido{
+	color:red;
+}
+.pasado{
+	text-decoration-line:overline underline;
+	
+}
+.hoy{
+	font-size:2em;
+}
+.vision{
+	font-size:2em;
+	font-style:italic;
+}
+.mañana{
+	text-decoration-line:underline;
+	color:red;
+}
